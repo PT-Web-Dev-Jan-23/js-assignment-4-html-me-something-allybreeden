@@ -48,6 +48,8 @@ p.funParagraph {
 }
 
 img {
+    display: block;
+    width: 60%;
     padding-top: 6px;
     padding-right: 70px;
     padding-left: 70 px;
