@@ -1,1 +1,65 @@
 /* Write your CSS here! */
+
+
+body {
+    margin: 8px;
+    display: block;
+    background-color: floralwhite;
+}
+
+#mainHeading {
+   color: red;
+   text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: goldenrod;
+    text-align: center;
+}
+
+p {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    text-indent: 20px;
+}
+
+p.paragraph {
+    color: gray;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+p.funParagraph {
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+img {
+    display: block;
+    width: 60%;
+    padding-top: 6px;
+    padding-right: 70px;
+    padding-left: 70 px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+
